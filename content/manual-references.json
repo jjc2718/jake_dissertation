@@ -207,6 +207,25 @@
   ]
 },
 {
+  "id": "pdmr",
+  "type": "webpage",
+  "URL": "https://pdmr.cancer.gov/",
+  "title": "NCI Patient-Derived Models Repository",
+  "container-title": "Webpage",
+  "issued": {
+    "date-parts": [
+      [
+        2023
+      ]
+    ]
+  },
+  "author": [
+    {
+      "literal": "National Cancer Institute (NCI), National Institutes of Health"
+    }
+  ]
+},
+{
   "id": "mut_sigs",
   "type": "webpage",
   "URL": "https://dcc.icgc.org/releases/PCAWG/mutational_signatures",
